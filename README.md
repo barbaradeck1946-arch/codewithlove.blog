@@ -1,4 +1,4 @@
-# codewithlove.blog 
+# codewithlove.blog @octocat contributor.MD
 
 A blog for documenting my journey in the field of software engineering.
 
